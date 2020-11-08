@@ -14,7 +14,7 @@ Junction 2020 | jalta
 ---
 
 ## Installation
-The service can be directly accessed from `https://.......herokuapp.com/`.
+The service can be directly accessed from `https://coffeagent.herokuapp.com/`.
 
 To run the application on a local machine, follow the steps below:
 
