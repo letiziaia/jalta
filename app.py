@@ -4,6 +4,7 @@ import mimetypes
 import some_plots
 import json
 import pandas as pd
+import os
 
 df = pd.concat([pd.read_csv('cafe_pos_data_1.csv'), pd.read_csv('cafe_pos_data_2.csv')])
 items = ['8569864530471244163', '-6433072210751770779', '3283340315810741494']
@@ -32,5 +33,5 @@ def main_page():
 if __name__ == '__main__':
     # run the app
     app.config['TEMPLATES_AUTO_RELOAD'] = True
-    app.debug = False
-    app.run()
+    port = int(os.environ.get("PORT", 5000))
+    app.run(host='0.0.0.0', port=port)
