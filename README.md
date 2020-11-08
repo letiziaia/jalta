@@ -18,7 +18,7 @@ The intuitive interface allows business owners to keep track of the Paulig produ
 ---
 
 ## Installation
-The service can be directly accessed from `https://coffeagent.herokuapp.com/`.
+The service can be directly accessed from `https://coffeeagent.herokuapp.com/`.
 
 To run the application on a local machine, follow the steps below:
 
