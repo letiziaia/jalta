@@ -1,4 +1,4 @@
-# Coffeagent: Smart dashboard for coffee shops
+# Coffeeagent: Smart dashboard for coffee shops
 Junction 2020 | team jalta
 
 A dashboard that provides easy to interpret insights about sales, revenues and inventory. Your personnel will get assistance during sales, as the dashboard can suggest which item the customer might want to add to their order.  Our vision is to bring a better experience to both customer and businesses.
