@@ -1,5 +1,5 @@
 # Coffeeagent: Smart dashboard for coffee shops
-Junction 2020 | team jalta
+[Junction 2020](https://app.hackjunction.com/projects/junction-2020-connected/view/5fa5b1e4fe2a9500432f9949) | team jalta
 
 [Link to video demo](https://www.youtube.com/watch?v=3yzuX8VruME)
 
