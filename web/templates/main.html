@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <title>Hello World</title>
+    <!--<script src="https://unpkg.com/react@17/umd/react.development.js"></script>
+    <script src="https://unpkg.com/react-dom@17/umd/react-dom.development.js"></script>-->
+    <script src="https://unpkg.com/react/umd/react.production.min.js"></script>
+	<script src="https://unpkg.com/react-dom/umd/react-dom.production.min.js"></script>
+	<script src="https://code.highcharts.com/highcharts.js"></script>
+	<script src="https://code.highcharts.com/modules/exporting.js"></script>
+	<script src="https://code.highcharts.com/modules/export-data.js"></script>
+	<script src="https://code.highcharts.com/modules/accessibility.js"></script>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="{{url_for('static', filename='app.js')}}">
+    </script>
+  </body>
+</html>
