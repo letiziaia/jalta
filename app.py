@@ -14,7 +14,7 @@ mimetypes.add_type('text/javascript', '.js')
 
 
 app = Flask(__name__)
-
+server = app.server
 @app.route('/')
 def main_page():
     timeseries = some_plots.get_timeseries_data(df)
@@ -33,4 +33,4 @@ if __name__ == '__main__':
     # run the app
     app.config['TEMPLATES_AUTO_RELOAD'] = True
     app.debug = False
-    app.run()
+    app.run_server(debug=False)
