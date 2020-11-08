@@ -1,7 +1,7 @@
 # Coffeagent: Smart dashboard for coffee shops
 Junction 2020 | team jalta
 
-A dashboard that provides easy to interpret insights about sales, revenues and inventory Your personnel will get assistance during sales, as the dashboard can suggest which item the customer might want to add to their order.  Our vision is to bring a better experience to both customer and businesses.
+A dashboard that provides easy to interpret insights about sales, revenues and inventory. Your personnel will get assistance during sales, as the dashboard can suggest which item the customer might want to add to their order.  Our vision is to bring a better experience to both customer and businesses.
 
 The intuitive interface allows business owners to keep track of the Paulig products they use and what their customer like. The dashboard will offer, for example, information on top 5 products in the last quarter, seasonal changes in sales and products consumption, latest procurement made and a reminder for purchasing new products, when the old ones start to expire or run out. Cafeteria sale activities are supported by the visualization of revenue and by the information about products combinations that customers buy more often, powered by the frequent itemset algorithm. Finally, external data from Instagram show the time progression of customer engagement by reporting the emojis produced when using the relevant hashtag, together with the amount of interactions: we believe that social media engagement can provide valuable feedback to the business while also motivating the staff at work. 
 
