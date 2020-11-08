@@ -33,4 +33,4 @@ if __name__ == '__main__':
     # run the app
     app.config['TEMPLATES_AUTO_RELOAD'] = True
     app.debug = False
-    app.run(host='0.0.0.0')
+    app.run()
