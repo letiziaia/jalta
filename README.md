@@ -68,8 +68,7 @@ No time for tests!
 ---
 ## Privacy
 
-We have worked with anonymized data. However, we won't share them here, since they are private.
-If any data file is shared, it can be assumed to be publicly available data.
+We have worked with anonymized data or publicly available data.
 
 ---
 
